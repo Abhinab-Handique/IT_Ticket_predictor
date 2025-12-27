@@ -1,0 +1,24 @@
+# General Libraries
+pandas
+numpy
+
+# Networking and API interaction
+requests
+urllib3
+httpx
+
+# LangChain and LangGraph orchestration
+langchain-openai
+langgraph
+
+# Deep Learning (Core PyTorch)
+torch
+
+# Machine Learning utilities
+scikit-learn
+langchain-groq
+streamlit
+fastapi
+uvicorn
+flask
+markdown
